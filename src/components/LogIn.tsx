@@ -25,7 +25,7 @@ export default function LogIn({setViewIndex}: any) {
       });
   };
 
-  const LogIn = async () => {
+  const LogInFunc = async () => {
     auth()
       .signInWithEmailAndPassword(email, password)
       .then(() => {
@@ -55,7 +55,7 @@ export default function LogIn({setViewIndex}: any) {
         <Button
           title="Log In"
           onPress={async () => {
-            await LogIn();
+            await LogInFunc();
             setViewIndex(1);
           }}
         />
