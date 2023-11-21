@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "18402451667",
+    "project_id": "tc2007b-nativo",
+    "storage_bucket": "tc2007b-nativo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18402451667:android:d5d6de3525a9f746e97426",
+        "android_client_info": {
+          "package_name": "com.example.the_vet_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2MJBUpicIj3kBkW3F-29D5d3z7xaemg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18402451667:android:45c7fe72d6b66f38e97426",
+        "android_client_info": {
+          "package_name": "com.vetapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2MJBUpicIj3kBkW3F-29D5d3z7xaemg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18402451667:android:bc3bd8a25375b072e97426",
+        "android_client_info": {
+          "package_name": "mx.tec.clase1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2MJBUpicIj3kBkW3F-29D5d3z7xaemg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
